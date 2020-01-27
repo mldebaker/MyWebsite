@@ -162,7 +162,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #social i:hover {
-	color: #1abc9c
+	color: #01579b
 }
 
 #footerwrap {
@@ -367,7 +367,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .contact-form .form-send button  {
-  background: #1abc9c;
+  background: #01579b;
   border: 0;
   padding: 14px 40px;
   color: #fff;
@@ -378,7 +378,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .contact-form .form-send button:hover {
-  background: #2addb9;
+  background: #01579b;
 }
 
 .contact-form .validate {
@@ -404,7 +404,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50%;
   width: 24px;
   height: 24px;
-  border: 3px solid #18d26e;
+  border: 3px solid #01579b;
   border-top-color: #eee;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
@@ -447,7 +447,7 @@ h1, h2, h3, h4, h5, h6 {
 .contact-form .sent-message {
   display: none;
   color: #fff;
-  background: #18d26e;
+  background: #01579b;
   text-align: center;
   padding: 15px;
   font-weight: 600;
