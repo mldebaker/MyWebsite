@@ -268,7 +268,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #scrapingwrap {
-	background: url(../img/webScrapping.png) no-repeat center top;
+	background: url(../img/webScrapping.PNG) no-repeat center top;
 	margin-top: 50px;
 	padding-top: 250px;
 	text-align:center;
@@ -315,7 +315,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Contact Form */
 
 #contactwrap {
-	background: url(../img/contact.jpg) no-repeat center top;
+	background: url(../img/contact__.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
