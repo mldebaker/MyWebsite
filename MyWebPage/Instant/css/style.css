@@ -267,6 +267,20 @@ h1, h2, h3, h4, h5, h6 {
     background-size: cover;
 }
 
+#scrapingwrap h1 {
+	color:#ffffff;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	letter-spacing: 4px;
+	font-size: 80px;
+	font-weight: bold;
+}
+
+#scrapingwrap h4 {
+	font-weight: 400;
+	color: #ffffff
+}
+
 #scrapingwrap {
 	background: url(../img/webScrapping.PNG) no-repeat center top;
 	margin-top: 50px;
@@ -286,20 +300,6 @@ h1, h2, h3, h4, h5, h6 {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-}
-
-#scrapingwrap h1 {
-	color:#ffffff;
-	padding-top: 10px;
-	padding-bottom: 20px;
-	letter-spacing: 4px;
-	font-size: 80px;
-	font-weight: bold;
-}
-
-#scrapingwrap h4 {
-	font-weight: 400;
-	color: #ffffff
 }
 
 /* Gallery */
