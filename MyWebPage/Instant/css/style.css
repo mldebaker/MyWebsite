@@ -62,7 +62,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-brand, .navbar-default .navbar-brand:hover {
-	color: #01579b;
+	color: white;
 }
 
 .navbar-default {
@@ -71,7 +71,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #01579b;
+	color: white;
 	background-color: transparent;
 }
 
@@ -80,7 +80,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-	color: #01579b;
+	color: white;
 }
 
 .navbar-default .navbar-toggle {
