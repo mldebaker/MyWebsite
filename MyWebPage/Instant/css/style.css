@@ -80,7 +80,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-	color: white;
+	color: #01579b;
 }
 
 .navbar-default .navbar-toggle {
